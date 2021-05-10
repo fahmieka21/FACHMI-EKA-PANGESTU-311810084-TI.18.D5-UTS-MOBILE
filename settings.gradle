@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UTS_FACHMI_EKA_PANGESTU_311810084_TI.18.D5"
